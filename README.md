@@ -21,4 +21,4 @@
 
 1. Клонируйте репозиторий на ваш локальный компьютер:
    ```bash
-   git clone https://github.com/zhukovsd/hangman.git
+   git clone https://github.com/Nazar-Goat/Hangman.git
